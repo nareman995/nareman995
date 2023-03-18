@@ -1,8 +1,9 @@
 <html>
   <Body>
                                                         <h2 style="text-align:center;">👋 Hi, I’m Nareeman Ali</h2>
-    <p>👀 I’m interested in Artificial intelligence field</p>
-<p> I’m currently learning data analyst & Machine Learning</p>
+    <p>👀 I’m interested in Artificial intelligence field & IOT domain</p>
+<p> I learned data analyst & Machine Learning</p>
+    <p>Currently learning Internet of Things ^_^ ITI</p>
 <p> 💞️ I’m looking to collaborate on machine learning Apps to improve my knowledge</p>
  <p>📫 Reach me with</p> 
 <a href="https://www.linkedin.com/in/nareeman-ali-10a4b9206/">
